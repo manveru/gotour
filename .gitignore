@@ -1,2 +1,5 @@
-asset/*.go
-gotour
+gotour32.exe
+gotour64.exe
+pano
+go32/
+go64/
